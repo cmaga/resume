@@ -19,3 +19,5 @@ I like the control that LaTeX gives over typical word resumes. As a computer Eng
 ## Dependencies
 
 Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
+
+Note: This resume is based on Debarghya Das's Deedy-Resume.
